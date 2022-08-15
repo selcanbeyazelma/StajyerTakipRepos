@@ -1,2 +1,2 @@
 # StajyerTakipRepos
-Stajyer öprencilerin günlük takibinin yapıldığı repos
+Stajyer öğrencilerin günlük takibinin yapıldığı repos
